@@ -1,0 +1,14 @@
+.cache/
+.virtualenv/
+__pycache__/
+*.egg-info/
+.coverage
+.DS_Store
+*.py[cod]
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.installed.cfg
+*.egg
+MANIFEST
+PKG-INFO
