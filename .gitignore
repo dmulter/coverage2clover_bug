@@ -1,3 +1,4 @@
+coverage.xml
 .cache/
 .virtualenv/
 __pycache__/
